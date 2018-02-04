@@ -1,0 +1,882 @@
+# Copyright (C) 2018 Tech Literacy
+# This file is distributed under the same license as the Tech Literacy package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tech Literacy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:35, comments.php:53
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:36
+msgid " Previous Comments"
+msgstr ""
+
+#: comments.php:37, comments.php:55
+msgid "Next Comments"
+msgstr ""
+
+#: comments.php:54
+msgid "Previous Comments"
+msgstr ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:74
+msgid "Post Comments"
+msgstr ""
+
+#: comments.php:76
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:84
+msgid "Name"
+msgstr ""
+
+#: comments.php:89
+msgid "Email"
+msgstr ""
+
+#: comments.php:94
+msgid "Website"
+msgstr ""
+
+#: footer.php:29
+msgid "<p>Powered by <a href=\"%1$s\" target=\"_blank\">WordPress</a>"
+msgstr ""
+
+#: footer.php:31
+msgid "Theme: Tech Literacy by <a href=\"%1$s\" target=\"_blank\" rel=\"designer\">Webulous Themes</a></p>"
+msgstr ""
+
+#: front-page.php:82, front-page.php:118, template-parts/content-single.php:36, template-parts/content.php:46
+msgid "Pages: "
+msgstr ""
+
+#: functions.php:47
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:111
+msgid "<ul><li><i class=\"fa fa-envelope-o\"></i><a href=\"mailto:information@mail.com\">information@mail.com</a></li> <li><i class=\"fa fa-phone\"></i> Call Us:(1)118 234 678</li></ul>"
+msgstr ""
+
+#: functions.php:124
+msgid "<ul><li><a href=\"#\"><i class=\"fa fa-facebook\"></i></a></li><li><a href=\"#\"><i class=\"fa fa-twitter\"></i></a></li><li><a href=\"#\"><i class=\"fa fa-pinterest\"></i></a></li><li><a href=\"#\"><i class=\"fa fa-tumblr\"></i></a></li></ul>"
+msgstr ""
+
+#: functions.php:135
+msgid "<i class=\"fa fa-phone twelve columns\"></i><p class=\"four columns align-left\">call us now<br><span class=\"clr-primary\">715.248.1574</span></p>"
+msgstr ""
+
+#: functions.php:146
+msgid "About Theme"
+msgstr ""
+
+#: functions.php:147
+msgid "Tech Literacy is a free, clean, minimalistic, responsive, mobile-friendly WordPress theme. Tech Literacy suitable for education, literacy websites, online stores, personal portfolio, agencies, start-ups and many others."
+msgstr ""
+
+#: functions.php:184, functions.php:190, functions.php:196
+msgid "Lorem Ipsum"
+msgstr ""
+
+#: functions.php:185, functions.php:191, functions.php:197
+msgid "Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean lacinia bibendum nulla sed consectetur"
+msgstr ""
+
+#: functions.php:202
+msgid "Service 1"
+msgstr ""
+
+#: functions.php:203, functions.php:209, functions.php:215
+msgid "You haven't created any service page yet. Create Page. Go to Customizer and click Theme Options => Home => Service Section #1 and select page from  dropdown page list.<!--more-->"
+msgstr ""
+
+#: functions.php:208
+msgid "Service 2"
+msgstr ""
+
+#: functions.php:214
+msgid "Service 3"
+msgstr ""
+
+#: functions.php:224, functions.php:228, functions.php:232
+msgid "blog one"
+msgstr ""
+
+#: functions.php:236
+msgid "Page Images"
+msgstr ""
+
+#: functions.php:275
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:285
+msgid "Top Left"
+msgstr ""
+
+#: functions.php:295
+msgid "Top Right"
+msgstr ""
+
+#: functions.php:305
+msgid "Header Top Right"
+msgstr ""
+
+#: functions.php:315
+msgid "Footer %d"
+msgstr ""
+
+#: functions.php:325
+msgid "Footer Nav"
+msgstr ""
+
+#: header.php:23
+msgid "Skip to content"
+msgstr ""
+
+#: search.php:25
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:33
+msgid "About Author:"
+msgstr ""
+
+#: template-full-width.php:2
+msgid "Full Width Template"
+msgstr ""
+
+#: admin/control-icon-picker.php:43
+msgid "Inline picker"
+msgstr ""
+
+#: includes/custom-header.php:83
+msgid "Play background video"
+msgstr ""
+
+#: includes/custom-header.php:84
+msgid "Pause background video"
+msgstr ""
+
+#: includes/enqueue.php:37
+msgctxt "Font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/options-config.php:2
+msgid "Page Builder"
+msgstr ""
+
+#: includes/options-config.php:3
+msgid "Theme supports Page Builder. You can drag and drop our widgets with page builder visual editor."
+msgstr ""
+
+#: includes/options-config.php:4
+msgid "Page Layout"
+msgstr ""
+
+#: includes/options-config.php:5
+msgid "Theme offers many different page layouts so you can quickly and easily create your pages with no hassle!"
+msgstr ""
+
+#: includes/options-config.php:6, includes/options-config.php:326
+msgid "Unlimited Sidebar"
+msgstr ""
+
+#: includes/options-config.php:7
+msgid "Theme includes a different sidebar layouts. Unlimited sidebars allow you to create custom sidebars that match the style and layout of pages!"
+msgstr ""
+
+#: includes/options-config.php:8
+msgid "Custom Widget"
+msgstr ""
+
+#: includes/options-config.php:9
+msgid "We offer many custom widgets that are stylized and ready for use. Simply drag & drop into place to activate!"
+msgstr ""
+
+#: includes/options-config.php:10
+msgid "Multi Portfolio"
+msgstr ""
+
+#: includes/options-config.php:11
+msgid "Theme have a unlimited customization options in portfolio. You can use 2, 3, or 4 Columns with masonry layouts!"
+msgstr ""
+
+#: includes/options-config.php:12
+msgid "Typography"
+msgstr ""
+
+#: includes/options-config.php:13
+msgid "Theme loves typography, you can choose from over 500+ Google Fonts and Standard Fonts to customize your site!"
+msgstr ""
+
+#: includes/options-config.php:14
+msgid "Awesome Sliders"
+msgstr ""
+
+#: includes/options-config.php:15
+msgid "Theme includes Flex and Elastic sliders . You can use flexslider as a image,video and google map anywhere in your site."
+msgstr ""
+
+#: includes/options-config.php:16
+msgid "Woo Commerce"
+msgstr ""
+
+#: includes/options-config.php:17
+msgid "Theme has full design/code integration for WooCommerce, your shop will look as good as the rest of your site!"
+msgstr ""
+
+#: includes/options-config.php:18
+msgid "Retina Ready"
+msgstr ""
+
+#: includes/options-config.php:19
+msgid "Theme is Retina Ready. So, Everything looks amazingly sharp and crisp on high resolution retina displays of all sizes!"
+msgstr ""
+
+#: includes/options-config.php:20
+msgid "Icons"
+msgstr ""
+
+#: includes/options-config.php:21
+msgid " Choose from over 2500 icons are fully integrated into the theme. Use them anywhere in your site with select your own size and color."
+msgstr ""
+
+#: includes/options-config.php:22
+msgid "Excellent Support"
+msgstr ""
+
+#: includes/options-config.php:23
+msgid "We truly care about our customers and themes performance. We assure you that you will get the best after sale support like never before!"
+msgstr ""
+
+#: includes/options-config.php:24
+msgid "Responsive Layout"
+msgstr ""
+
+#: includes/options-config.php:25
+msgid "Theme is fully responsive and can adapt to any screen size. Resize your browser window to view it!"
+msgstr ""
+
+#: includes/options-config.php:26
+msgid "Testimonials"
+msgstr ""
+
+#: includes/options-config.php:27
+msgid "Display your clients' glowing comments about your business on your homepage. Showing a specific number of testimonials with use of testimonial widget. "
+msgstr ""
+
+#: includes/options-config.php:28
+msgid "Social Media"
+msgstr ""
+
+#: includes/options-config.php:29
+msgid "Want your users to stay in touch? No problem, Theme has Social Media icons all throughout the theme!"
+msgstr ""
+
+#: includes/options-config.php:30, includes/options-config.php:296
+msgid "Google Map"
+msgstr ""
+
+#: includes/options-config.php:31
+msgid "Theme includes Goole Map widget. Find a place on the map and get directions. Or get info like business hours and menus, and see Street View imagery."
+msgstr ""
+
+#: includes/options-config.php:32
+msgid "Customization"
+msgstr ""
+
+#: includes/options-config.php:33
+msgid "With advanced theme options, page options & extensive docs, its never been easier to customize a theme!"
+msgstr ""
+
+#: includes/options-config.php:34
+msgid "Demo content"
+msgstr ""
+
+#: includes/options-config.php:35
+msgid "Theme includes single click demo content. You can quickly setup the site like our demo and get started easily!"
+msgstr ""
+
+#: includes/options-config.php:36
+msgid "Improvement"
+msgstr ""
+
+#: includes/options-config.php:37
+msgid "We love our theme and customers. We are committed to improve and add new features to Theme!"
+msgstr ""
+
+#: includes/options-config.php:39
+msgid "View Demo"
+msgstr ""
+
+#: includes/options-config.php:40
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: includes/options-config.php:138
+msgid "Tech Literacy"
+msgstr ""
+
+#: includes/options-config.php:140
+msgid "Upgrade To Tech Literacy Pro"
+msgstr ""
+
+#: includes/options-config.php:168
+msgid "Welcome to %1$s - Version %2$s"
+msgstr ""
+
+#: includes/options-config.php:169
+msgid "<div class=\"about-text\"> Tech Literacy is a free, clean, minimalistic, responsive, mobile-friendly WordPress theme. Tech Literacy suitable for education, literacy websites, online stores, personal portfolio, agencies, start-ups. However, due to its flexibility and easiness it can be used to create any types of sites. this Theme build in customizer it is very easy to use and user friendly. Theme includes lots of features like Drag & Drop page builder. </div>"
+msgstr ""
+
+#: includes/options-config.php:171
+msgid "Buy %1s Pro - $39"
+msgstr ""
+
+#: includes/options-config.php:175
+msgid "PRO Features"
+msgstr ""
+
+#: includes/options-config.php:176
+msgid "Free VS PRO"
+msgstr ""
+
+#: includes/options-config.php:190
+msgid "Image"
+msgstr ""
+
+#: includes/options-config.php:196
+msgid "Theme Customizer"
+msgstr ""
+
+#: includes/options-config.php:197
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to start customize your site."
+msgstr ""
+
+#: includes/options-config.php:199
+msgid "Start Customize"
+msgstr ""
+
+#: includes/options-config.php:203
+msgid "Theme Documentation"
+msgstr ""
+
+#: includes/options-config.php:204
+msgid "Need any help to setup and configure %s? Please have a look at our documentations instructions."
+msgstr ""
+
+#: includes/options-config.php:206
+msgid " Documentation"
+msgstr ""
+
+#: includes/options-config.php:211
+msgid "Having Trouble, Need Support?"
+msgstr ""
+
+#: includes/options-config.php:212
+msgid "Support for %s WordPress theme is conducted through Webulous free support ticket system."
+msgstr ""
+
+#: includes/options-config.php:251
+msgid "Flex Slider"
+msgstr ""
+
+#: includes/options-config.php:256
+msgid "Support"
+msgstr ""
+
+#: includes/options-config.php:261
+msgid "Responsive Design"
+msgstr ""
+
+#: includes/options-config.php:266
+msgid "Custom Logo Option"
+msgstr ""
+
+#: includes/options-config.php:271
+msgid "Social Links"
+msgstr ""
+
+#: includes/options-config.php:276
+msgid "Unlimited color option"
+msgstr ""
+
+#: includes/options-config.php:281
+msgid "Elastic Slider"
+msgstr ""
+
+#: includes/options-config.php:286
+msgid "Page Builder Support"
+msgstr ""
+
+#: includes/options-config.php:291
+msgid "Page Templates"
+msgstr ""
+
+#: includes/options-config.php:301
+msgid "Demo Content"
+msgstr ""
+
+#: includes/options-config.php:306
+msgid "Polylang Compatible"
+msgstr ""
+
+#: includes/options-config.php:311
+msgid "Multiple Portfolio Layouts"
+msgstr ""
+
+#: includes/options-config.php:316
+msgid "Multiple Blog Layouts"
+msgstr ""
+
+#: includes/options-config.php:321
+msgid "Page Animation"
+msgstr ""
+
+#: includes/options-config.php:333
+msgid "Buy %1s Pro"
+msgstr ""
+
+#: includes/options-config.php:352, includes/options-config.php:353
+msgid "Theme Options"
+msgstr ""
+
+#: includes/options-config.php:356
+msgid "General"
+msgstr ""
+
+#: includes/options-config.php:357
+msgid "General settings that affects overall site"
+msgstr ""
+
+#: includes/options-config.php:361
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: includes/options-config.php:367
+msgid "Select Breadcrumb Character"
+msgstr ""
+
+#: includes/options-config.php:378
+msgid "Enable Numeric Page Navigation"
+msgstr ""
+
+#: includes/options-config.php:379
+msgid "Check to display numeric page navigation, instead of Previous Posts / Next Posts links."
+msgstr ""
+
+#: includes/options-config.php:385
+msgid "Website Layout Options"
+msgstr ""
+
+#: includes/options-config.php:386
+msgid "Select main content and sidebar alignment."
+msgstr ""
+
+#: includes/options-config.php:388
+msgid "Sidebar Left"
+msgstr ""
+
+#: includes/options-config.php:389
+msgid "Sidebar Right"
+msgstr ""
+
+#: includes/options-config.php:390
+msgid "Full Width"
+msgstr ""
+
+#: includes/options-config.php:391
+msgid "No Sidebar"
+msgstr ""
+
+#: includes/options-config.php:399
+msgid "Header"
+msgstr ""
+
+#: includes/options-config.php:400
+msgid "Header options"
+msgstr ""
+
+#: includes/options-config.php:404
+msgid "Logo as Title"
+msgstr ""
+
+#: includes/options-config.php:410
+msgid "Show site Tagline"
+msgstr ""
+
+#: includes/options-config.php:417
+msgid "Footer"
+msgstr ""
+
+#: includes/options-config.php:418
+msgid "Footer related options"
+msgstr ""
+
+#: includes/options-config.php:422
+msgid "Footer Widget Area"
+msgstr ""
+
+#: includes/options-config.php:428
+msgid "Footer Copyright Text (Validated that it's HTML Allowed)"
+msgstr ""
+
+#: includes/options-config.php:429
+msgid "HTML Allowed. <b>This field is even HTML validated! </b>"
+msgstr ""
+
+#: includes/options-config.php:435
+msgid "Search Section"
+msgstr ""
+
+#: includes/options-config.php:436
+msgid "Search Section Related options"
+msgstr ""
+
+#: includes/options-config.php:440
+msgid "Enable Home Page Search Section"
+msgstr ""
+
+#: includes/options-config.php:446
+msgid "Search Heading"
+msgstr ""
+
+#: includes/options-config.php:448
+msgid "How We Can Help You Today?"
+msgstr ""
+
+#: includes/options-config.php:452
+msgid "Enable Other Pages Search Section"
+msgstr ""
+
+#: includes/options-config.php:458
+msgid "Search Section Background Color"
+msgstr ""
+
+#: includes/options-config.php:464
+msgid "Enable Search Section Background Image"
+msgstr ""
+
+#: includes/options-config.php:470
+msgid "Search Section Background Image"
+msgstr ""
+
+#: includes/options-config.php:522
+msgid "Home"
+msgstr ""
+
+#: includes/options-config.php:523
+msgid "Home Page options"
+msgstr ""
+
+#: includes/options-config.php:527
+msgid "Enable Home Page Service Section"
+msgstr ""
+
+#: includes/options-config.php:533
+msgid "Choose Service Section Icons #1"
+msgstr ""
+
+#: includes/options-config.php:538
+msgid "Service Section #1"
+msgstr ""
+
+#: includes/options-config.php:543
+msgid "Service #1 Color"
+msgstr ""
+
+#: includes/options-config.php:549
+msgid "Choose Service Section Icons #2"
+msgstr ""
+
+#: includes/options-config.php:554
+msgid "Service Section #2"
+msgstr ""
+
+#: includes/options-config.php:559
+msgid "Service #2 Color"
+msgstr ""
+
+#: includes/options-config.php:565
+msgid "Choose Service Section Icons #3"
+msgstr ""
+
+#: includes/options-config.php:570
+msgid "Service Section #3"
+msgstr ""
+
+#: includes/options-config.php:575
+msgid "Service #3 Color"
+msgstr ""
+
+#: includes/options-config.php:581
+msgid "Enable Home Page Recent Post Section"
+msgstr ""
+
+#: includes/options-config.php:582
+msgid "Enable recent post section in home page"
+msgstr ""
+
+#: includes/options-config.php:588
+msgid "No. of Recent Posts"
+msgstr ""
+
+#: includes/options-config.php:594
+msgid "Enable Home Page Default Content"
+msgstr ""
+
+#: includes/options-config.php:595
+msgid "Enable home page default content"
+msgstr ""
+
+#: includes/options-config.php:602
+msgid "Blog"
+msgstr ""
+
+#: includes/options-config.php:603
+msgid "Blog Related Posts options"
+msgstr ""
+
+#: includes/options-config.php:607
+msgid "Enable Featured Image"
+msgstr ""
+
+#: includes/options-config.php:613
+msgid "Choose the featured image display type for Blog Page "
+msgstr ""
+
+#: includes/options-config.php:615, includes/options-config.php:631
+msgid "Large Featured Image"
+msgstr ""
+
+#: includes/options-config.php:616, includes/options-config.php:632
+msgid "Small Featured Image"
+msgstr ""
+
+#: includes/options-config.php:623
+msgid "Enable Single Post Featured Image"
+msgstr ""
+
+#: includes/options-config.php:629
+msgid "Choose the featured image display type for Single Page "
+msgstr ""
+
+#: includes/options-config.php:639
+msgid " Enable Author Bio Box below single post"
+msgstr ""
+
+#: includes/options-config.php:640
+msgid "Show Author information box below single post."
+msgstr ""
+
+#: includes/options-config.php:646
+msgid "Show Related posts"
+msgstr ""
+
+#: includes/options-config.php:647
+msgid "Show related posts."
+msgstr ""
+
+#: includes/options-config.php:653
+msgid "Related Posts Must Be Shown As:"
+msgstr ""
+
+#: includes/options-config.php:655
+msgid "Related Posts By Tags"
+msgstr ""
+
+#: includes/options-config.php:656
+msgid "Related Posts By Categories"
+msgstr ""
+
+#: includes/options-config.php:663
+msgid " Show Comments"
+msgstr ""
+
+#: includes/options-config.php:664
+msgid "Show Comments"
+msgstr ""
+
+#: includes/template-tags.php:25
+msgid "Post navigation"
+msgstr ""
+
+#: includes/template-tags.php:28
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr ""
+
+#: includes/template-tags.php:29
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: includes/template-tags.php:47, includes/template-tags.php:53
+msgid " "
+msgstr ""
+
+#: includes/template-tags.php:49, includes/template-tags.php:55, includes/template-tags.php:124
+msgid "%1$s "
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: includes/template-tags.php:122
+msgid ", "
+msgstr ""
+
+#: includes/template-tags.php:193
+msgid "<i class=\"fa fa-home\"></i>"
+msgstr ""
+
+#: includes/template-tags.php:194
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: includes/template-tags.php:195
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: includes/template-tags.php:196
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: includes/template-tags.php:197
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: includes/template-tags.php:198
+msgid "Error 404"
+msgstr ""
+
+#: includes/template-tags.php:251, includes/template-tags.php:251, includes/template-tags.php:252, includes/template-tags.php:256, includes/template-tags.php:256, includes/template-tags.php:260
+msgid "Y"
+msgstr ""
+
+#: includes/template-tags.php:252
+msgid "m"
+msgstr ""
+
+#: includes/template-tags.php:252, includes/template-tags.php:257
+msgid "F"
+msgstr ""
+
+#: includes/template-tags.php:253
+msgid "d"
+msgstr ""
+
+#: includes/template-tags.php:323
+msgid "Page"
+msgstr ""
+
+#: includes/template-tags.php:344
+msgctxt "post author"
+msgid " %s"
+msgstr ""
+
+#: includes/template-tags.php:364
+msgid "No Comments"
+msgstr ""
+
+#: includes/template-tags.php:366
+msgid " Comments"
+msgstr ""
+
+#: includes/template-tags.php:368
+msgid "1 Comment"
+msgstr ""
+
+#: includes/template-tags.php:372
+msgid "Leave a comment"
+msgstr ""
+
+#: includes/template-tags.php:381, template-parts/content-page.php:30
+msgid "Edit"
+msgstr ""
+
+#: includes/template-tags.php:428, includes/template-tags.php:431
+msgid "No Related Posts Yet!"
+msgstr ""
+
+#: includes/template-tags.php:459, template-parts/content.php:40
+msgid "Read More"
+msgstr ""
+
+#: includes/template-tags.php:495
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our <a href=\"%2$s\">Welcome page</a>"
+msgstr ""
+
+#: includes/template-tags.php:496
+msgid "Get started with Tech Literacy"
+msgstr ""
+
+#: includes/template-tags.php:506
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: includes/template-tags.php:507
+msgctxt "placeholder"
+msgid "Have a question? Search here"
+msgstr ""
+
+#: includes/template-tags.php:508
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: includes/template-tags.php:539
+msgid "The Searching Page couldn&apos;t found!!"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:21
+msgid "Pages:"
+msgstr ""
